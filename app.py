@@ -45,7 +45,7 @@ st.markdown("""
 
 
 # Setting the GOOGLE_API_KEY
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCbmIkqNYcAQF1eaAunWOlcWeOivfQjgNM"
+os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
 
 # Initialize Google Gemini Model
 # Temperature 0.01 is utilized to minimize variance and ensure factual consistency 
