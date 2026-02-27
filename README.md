@@ -2,6 +2,6 @@ Project Name: MindFlow AI.
 Description: A Persona-Driven Summarization tool using Gemini.
 Features: Multi-format input (PDF/Text), Persona switching (Beginner/Expert), and AI-as-a-Judge evaluation.
 
-Demo Link:
+Demo Link: https://youtu.be/0rABgUMS_5Y
 Hagging face link: https://huggingface.co/spaces/MindFlow-AI/MindFlow_AI
 
