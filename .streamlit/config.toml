@@ -1,0 +1,17 @@
+[theme]
+# Button and radio color
+primaryColor = "#85C1E9" 
+
+
+# Page background color
+backgroundColor = "#F0F2F6" 
+
+# Sidebar color
+secondaryBackgroundColor = "#D5DBDB" 
+
+#font color (black)
+textColor = "#1B1B1B" 
+
+# Font type
+font = "sans serif" 
+
